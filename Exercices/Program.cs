@@ -49,7 +49,7 @@ namespace exercices
             }
             else
             {
-                Console.WriteLine("You wan a Kitten!hiphiphip");
+                Console.WriteLine("You wan a Kitten!lolololol");
             }
 
             return result;
