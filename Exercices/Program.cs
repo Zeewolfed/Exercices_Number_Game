@@ -7,7 +7,7 @@ namespace exercices
 {
     internal class Program
     {
-        static int nombre()
+        static int nombre()//Use condition and class Random
         {
             Random dice = new Random();
 
@@ -49,7 +49,7 @@ namespace exercices
             }
             else
             {
-                Console.WriteLine("You wan a Kitten!hiphiphip");
+                Console.WriteLine("You wan a Kitten!");
             }
 
             return result;
